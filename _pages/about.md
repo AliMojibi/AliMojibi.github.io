@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: subtitle: Data-Driven Modeling, Deep Learning for Pose Estimation, Neuromotor Modeling, Robotics
+subtitle: Data-Driven Modeling, Deep Learning for Pose Estimation, Neuromotor Modeling, Robotics
 
 profile:
   align: right
