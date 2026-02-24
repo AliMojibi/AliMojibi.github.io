@@ -12,7 +12,7 @@ profile:
     
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -33,4 +33,6 @@ I received my M.Sc. in Mechanical Engineering from [Sharif University of Technol
 
 I have also worked on deep learning models for 3D human motion prediction, strengthening my background in machine learning for time-series data.
 
-My goal is to pursue doctoral research integrating human motor control principles with learning-based methods to develop adaptive and reliable intelligent systems.
+I aim to pursue doctoral research at the intersection of computational modeling and intelligent systems, ultimately building an academic career as a faculty member.
+
+In my free time, I enjoy playing football, going to the mountains, and walking in nature. I am particularly interested in reading books on psychology and management, as I enjoy learning about human behavior and decision-making.
