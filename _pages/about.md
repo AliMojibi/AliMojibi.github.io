@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data-Driven Modeling, Deep Learning for Pose Estimation, Neuromotor Modeling, Robotics
+subtitle: subtitle: Physics-Informed Learning, Dynamical Systems, and Robotics
 
 profile:
   align: right
@@ -27,12 +27,14 @@ latest_posts:
 
 Hi! I’m Ali.
 
-I am a researcher with interests in data-driven modeling, deep learning for pose estimation, and neuromotor modeling. My work focuses on applying machine learning and computational methods to understand and model complex dynamical systems.
+I am a researcher interested in machine learning, dynamical systems, and computational modeling, with a focus on interpretable and physics-informed approaches for understanding complex physical and biological systems. 
 
-I received my M.Sc. in Mechanical Engineering from [Sharif University of Technology](https://en.sharif.ir/), where I modeled human postural control using a data-driven intermittent control and Bayesian parameter inference to study differences between healthy individuals and people with Parkinson’s disease under varying sensory conditions.
+I received my M.Sc. in Mechanical Engineering from [Sharif University of Technology](https://en.sharif.ir/). My graduate research focused on computational modeling of human postural control using intermittent control theory and Bayesian parameter inference. The primary goal of this work was to develop interpretable models of human balance control and to better understand underlying neuromotor strategies under different sensory conditions. Through this research, I investigated differences in balance behavior between healthy individuals and people with Parkinson’s disease using data-driven and probabilistic modeling approaches.
 
-I have also worked on deep learning models for 3D human motion prediction, strengthening my background in machine learning for time-series data.
+Building on this work, I also worked on deep learning approaches for 3D human motion prediction and time-series modeling, including the development of physics-informed models for human posture prediction.
 
-I aim to pursue doctoral research at the intersection of computational modeling and intelligent systems, ultimately building an academic career as a faculty member.
+More recently, I have been exploring learning-based approaches for robotics, health monitoring systems, and AI-driven computational methods for modeling dynamical systems.
 
-In my free time, I enjoy playing football, going to the mountains, and walking in nature. I am particularly interested in reading books on psychology and management, as I enjoy learning about human behavior and decision-making.
+I am interested in pursuing doctoral research at the intersection of machine learning, control, and physical systems, with the long-term goal of contributing to academic research and interdisciplinary scientific development.
+
+Outside of research, I enjoy football, hiking, mountain trips, and reading about psychology, decision-making, and management.
