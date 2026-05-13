@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: subtitle: Physics-Informed Learning, Dynamical Systems, and Robotics
+subtitle: Physics-Informed Learning, Dynamical Systems, and Robotics
 
 profile:
   align: right
